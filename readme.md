@@ -147,5 +147,3 @@ For full metrics and analysis, see the [PDF Report](./DATA6100_Finalproject_Repo
 - Scikit-learn Documentation – [Link](https://scikit-learn.org/stable/user_guide.html)
 - [DATA6100_Finalproject_Report.pdf](./DATA6100_Finalproject_Report.pdf) – Detailed project report.
 - Project by *[Preyansh Yadav & Pratham Sankhala]* as part of *[DATA*6100-Introduction to Data Science]*.
-
----!  
